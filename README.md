@@ -1,1 +1,1 @@
-Bu repo Redux'a cevirilmek uzere hazirlanmistir.
+Redux logic will be added soon.
